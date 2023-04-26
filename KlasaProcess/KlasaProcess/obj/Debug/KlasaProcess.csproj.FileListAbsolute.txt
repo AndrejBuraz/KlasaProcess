@@ -1,0 +1,11 @@
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\KlasaProcess\KlasaProcess\bin\Debug\KlasaProcess.exe.config
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\KlasaProcess\KlasaProcess\bin\Debug\KlasaProcess.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\KlasaProcess\KlasaProcess\bin\Debug\KlasaProcess.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\KlasaProcess\KlasaProcess\obj\Debug\KlasaProcess.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\KlasaProcess\KlasaProcess\obj\Debug\KlasaProcess.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\KlasaProcess\KlasaProcess\obj\Debug\KlasaProcess.Form1.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\KlasaProcess\KlasaProcess\obj\Debug\KlasaProcess.Properties.Resources.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\KlasaProcess\KlasaProcess\obj\Debug\KlasaProcess.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\KlasaProcess\KlasaProcess\obj\Debug\KlasaProcess.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\KlasaProcess\KlasaProcess\obj\Debug\KlasaProcess.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\KlasaProcess\KlasaProcess\obj\Debug\KlasaProcess.pdb
